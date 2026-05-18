@@ -4,3 +4,4 @@
 - 프로젝트 이름 : Turnbased_TextArt_RPG
 - 개발언어
 <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
