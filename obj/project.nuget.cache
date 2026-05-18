@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9L3Cnu06Mk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sym\\Desktop\\OZ_Coding\\Projects\\Day18\\MyGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sym\\.nuget\\packages\\colorminestandard\\1.0.0\\colorminestandard.1.0.0.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\coroutine\\2.1.5\\coroutine.2.1.5.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\hexa.net.imgui\\2.2.9\\hexa.net.imgui.2.2.9.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\hexagen.runtime\\1.1.21\\hexagen.runtime.1.1.21.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.4.1\\monogame.framework.desktopgl.3.8.4.1.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\monogame.library.openal\\1.24.3.2\\monogame.library.openal.1.24.3.2.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\monogame.library.sdl\\2.32.2.1\\monogame.library.sdl.2.32.2.1.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\sadconsole\\10.9.0\\sadconsole.10.9.0.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\sadconsole.extended\\10.9.0\\sadconsole.extended.10.9.0.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\sadconsole.host.monogame\\10.9.0\\sadconsole.host.monogame.10.9.0.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\sadconsole.imgui.monogame\\10.9.0\\sadconsole.imgui.monogame.10.9.0.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\system.text.encoding.codepages\\10.0.0\\system.text.encoding.codepages.10.0.0.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\sym\\.nuget\\packages\\thesadrogue.primitives\\1.6.0\\thesadrogue.primitives.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
